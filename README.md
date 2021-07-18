@@ -2,7 +2,7 @@
 I am a Front-end developer from Poland. Working and living in England.
 - 🔭 Working on multiple frontend and backend project using Vue and Nodejs
 - ⚡ Have 5 years of proffesional experience as a graphic designer
-- 🌱 Learning design patterns in depth
+- 🌱 Learning algorithms and data structures in depth
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patryk-ptak-476910125/)
