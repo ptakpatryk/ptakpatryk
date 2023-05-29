@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a Front-end developer from Poland. Working and living in England.
-- 🔭 Working on multiple frontend and backend project using Vue and Nodejs
-- ⚡ Have 5 years of proffesional experience as a graphic designer
+- 🔭 Working on multiple frontend and backend project using Vue/ReactJS and NodeJS
+- ⚡ 5 years of proffesional experience as a graphic designer
 - 🌱 Learning algorithms and data structures in depth
 
 ## Connect with me
